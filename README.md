@@ -16,3 +16,12 @@ Esta funcion solo regresa un texto en pantalla con un adios, esto para salir del
 
 main()
 Esta funcion muestra en pantalla las acciones disponibles (funciones)
+
+Como instalar:
+
+Descargar las siguientes libreria.
+pycryptodome==3.14.1
+
+Ejemplo
+pip3 install pycryptodome==3.14.1
+
